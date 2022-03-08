@@ -1,0 +1,25 @@
+body {
+  background: #c0ab9a;
+}
+p {
+  color: #ffffff;
+  font-style: oblique;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+}
+h1 {
+  font-weight: lighter;
+  color: antiquewhite;
+  text-align: center;
+  font-family: cursive;
+}
+button {
+  outline-color: white;
+  background-color: floralwhite;
+  color: #c0ab9a;
+  font-style: oblique;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+}
